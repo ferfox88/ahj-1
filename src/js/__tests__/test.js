@@ -1,5 +1,5 @@
-import demo from "../app";
+import demo from '../app';
 
-test("test demo", () => {
+test('test demo', () => {
   expect(demo(7)).toBe(7);
 });
